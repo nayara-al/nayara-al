@@ -1,5 +1,5 @@
 
-# Hi, I'm Nayara!
+# 👋 Hi, I'm Nayara!
 
 ## 🚀 About me
 - Front-End Developer passionate about creating incredible web experiences
@@ -10,8 +10,6 @@
 - React | VueJS | Next.js | Vite.js
 - TypeScript | JavaScript
 - HTML | CSS | Git
-
-
 
 ## 📫 Reach me
  - [E-mail](anna_nayara@hotmai.com)
