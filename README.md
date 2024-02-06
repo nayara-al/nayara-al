@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**nayara-al/nayara-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nayara!
 
-Here are some ideas to get you started:
+## 🚀 About me
+- Front-End Developer passionate about creating incredible web experiences
+- Always looking to learn about new technologies
+- I'm from Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies
+- React | VueJS | Next.js | Vite.js
+- TypeScript | JavaScript
+- HTML | CSS | Git
+
+
+
+## 📫 Reach me
+ - [E-mail](anna_nayara@hotmai.com)
+ - [Linkedin](https://www.linkedin.com/in/anna-nayara-lira-7458661a1/)
+
+
