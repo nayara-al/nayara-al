@@ -12,7 +12,7 @@
 - HTML | CSS | Git
 
 ## 📫 Reach me
- - [E-mail](anna_nayara@hotmai.com)
+ - E-mail - anna_nayara@hotmai.com
  - [Linkedin](https://www.linkedin.com/in/anna-nayara-lira-7458661a1/)
 
 
